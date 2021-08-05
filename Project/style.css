@@ -1,0 +1,9 @@
+.site-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e1e1e1;
+}
+img{
+    width: 20rem;
+}
